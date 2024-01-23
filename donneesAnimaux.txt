@@ -1,0 +1,8 @@
+V;"J'ai battue le lièvre dans une course";tortue
+H;"Je suis un insecte volant et mes ailes formes souvent des motifs magnifiques";papillon
+V;"Je vie dans l'eau et on peut me garder comme animal de compagnie";poisson
+V;"Le bruit que je fait est coin coin";canard
+H;"Je suis le plus grand mammifère marin";baleine
+V;"Je suis le plus grand mammifère terrestre";elephant
+H;"Je ressemble à un mouton, mais j'ai des cornes";chèvre
+H;"Je suis le roi de la jungle";lion

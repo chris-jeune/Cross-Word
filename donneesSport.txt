@@ -1,0 +1,10 @@
+H;"Une partie de hockey r�glementaire dure _______  minutes";soixante
+H;"Au tennis, ce coup ralentit la balle au contact du sol";amorti
+H;"En Formule 1, c'est le seul endroit o� la course se d�roule dans les rues d'une ville";Monaco
+H;" Ce gardien de but a remport� 551 victoires en saison r�guli�re dans la LNH, un record(son pr�nom) ";Patrick
+H;"Pays d'origine d'Ayrton Senna, d�c�d� en mai 1994";Bresil
+V;"En 1995, ce cycliste espagnol remportait son 5i�me tour de France cons�cutif";Indurain
+V;"Au baseball, un frappeur r�ussit un ______ lorsqu'il exp�die la balle par dessus la cl�ture" ;Circuit
+V;"Pour �tre d�clar�e prise, la base se baseball doit passer au dessus du ______ ";Marbre
+V;" Surnomm� Monsieur Octobre, il est �lu Temple de la renomm�e du baseball majeur en 1993";Jackson
+V;" En F�vrier 1993, ce tennisman am�ricain d�c�dait du Sida � l'�ge de  49 ans ";ASHE

@@ -1,0 +1,10 @@
+H;"Un cheval, des...";chevaux
+H;"Pluriel de fourmi.";fourmis
+H;"Une souris, des...";souris
+H;"Pluriel de hibou";hiboux
+V;"un chapeau, des..";chapeaux
+V;"un nez, des...";nez
+V;"pluriel de travail";travaux
+V;"un feu, des...";feux
+V;"pluriel de bijou";bijoux
+V;"une maison, des...";maisons
