@@ -1,4 +1,4 @@
-**French Crossword Game with JavaFX and Scene Builder**
+**French Crossword Game**
 
 This French Crossword Game is a fun and interactive application built using JavaFX and Scene Builder. The game provides players with crossword puzzles in various themes, including "Animaux", "Pluriel" and "Sport."
 
@@ -28,18 +28,3 @@ This French Crossword Game is a fun and interactive application built using Java
 - Java Runtime Environment (JRE)
 - JavaFX
 - Scene Builder
-
-### Contributions:
-Contributions to this project are welcome! If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
-
-### Issues and Support:
-If you encounter any issues while using the game or have any questions, feel free to open an issue on GitHub or contact jeuch@outlook.com for assistance.
-
-### License:
-This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for details.
-
-### Credits:
-This game was developed by Christian Jeune as a project for the Development of programs in a graphical environment course at Cégep Gérald-Godin.
-
-### Enjoy the Game!
-Thank you for checking out the French Crossword Game repository. We hope you have a fantastic time solving puzzles and exploring different themes! If you enjoy the game, don't forget to leave a star ⭐️ on the repository. Happy gaming!
