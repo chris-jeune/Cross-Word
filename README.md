@@ -13,6 +13,10 @@ This French Crossword Game is a fun and interactive application built using Java
 2. **Pluriel: ** This theme focuses on the plurality of words.
 3. **Sport:** The sport theme features crossword puzzles related to various sports, including popular games and athletic activities.
 
+### Demo
+
+https://github.com/chris-jeune/Cross-Word/assets/145855247/5005c34c-f4df-4d38-ab83-55c0984d1ec6
+
 ### Getting Started:
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
    ```
