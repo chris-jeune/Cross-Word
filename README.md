@@ -1,4 +1,4 @@
-**French Crossword Game**
+# French Crossword Game
 
 This French Crossword Game is a fun and interactive application built using JavaFX and Scene Builder. The game provides players with crossword puzzles in various themes, including "Animaux", "Pluriel" and "Sport."
 
